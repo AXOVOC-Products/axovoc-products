@@ -1,0 +1,38 @@
+Template link: https://www.free-css.com/free-css-templates/page294/namari
+
+----------------------------------
+
+Notes:
+
+Pages: home, about, product, blogs, contact, updates
+
+---------------------------
+Indexing/Pages:
+
+<ul class="main-nav">
+  <li><a href="index.html">Home</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="product.html">Product</a></li>
+  <li><a href="updates.html">Updates</a></li>
+  <li><a href="blogs.html">Blogs</a></li>  
+  <li><a href="contact.html">Contact</a></li>
+</ul>
+
+------------------------------
+
+Sitemap:
+
+/
+|-- index.html        → Home
+|-- about.html        → About you and your product vision
+|-- product.html      → Product concept, benefits, and future roadmap
+|-- updates.html      → Progress updates, development logs, YouTube video releases
+|-- blogs.html        → Blog posts for SEO
+|-- contact.html      → Contact info and form
+
+
+NOTE: It is ready and available in folder to be submitted to google later after website is live.
+
+-------------------------------
+
+
